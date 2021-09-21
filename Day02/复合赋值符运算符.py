@@ -3,3 +3,20 @@
 # @Author:xiu-du-du
 # @File:复合赋值符运算符
 # @Project:ggpy
+
+a=10
+
+a+=2
+print(a)
+a-=2
+print(a)
+a*=2
+print(a)
+a/=2
+print(a)
+a//=2
+print(a)
+a**=2
+print(a)
+a%=2
+print(a)
