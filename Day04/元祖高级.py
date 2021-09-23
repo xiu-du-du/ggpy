@@ -5,7 +5,7 @@
 # @Project:ggpy
 
 # 元祖的访问
-nameTuple=('tom','jin','mary')
+nameTuple = ('tom','jin','mary')
 print(type(nameTuple))
 print(nameTuple)
 
