@@ -9,7 +9,7 @@
 print(len('Hello Python'))
 
 # find() --> 查找内容
-# 返回值:int,返回要查询内容所在的下标
+# 返回值: int,返回要查询内容所在的下标
 print('Hello Python'.find('n'))
 
 # startswith() --> 匹配开头
