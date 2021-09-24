@@ -6,5 +6,5 @@
 
 # 创建文件 --> 写入数据 --> 关闭文件
 creatFile=open(r'demo\test.txt','w')
-creatFile.write('Hello Python')
+creatFile.write('Hello,Python!')
 creatFile.close()
